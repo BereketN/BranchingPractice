@@ -7,4 +7,9 @@ public class Test {
 		
 		System.out.println("Remote Repository");
 	}
+	
+	public void devChange() {
+		System.out.println("Pushing from dev to remote");
+	}
+	
 }
